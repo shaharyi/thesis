@@ -3,11 +3,8 @@ Computer Graphics thesis for Master degree in medical imaging in Python
 
 The main code file is `sesame.py` and contains documentation.
 
-* [Thesis paper in Univ archives](http://www.cs.tau.ac.il/thesis/thesis/Yifrah.Shahar-MSc.pdf)
 
 * [IEEE page](https://ieeexplore.ieee.org/document/6867883)
-
-* [DOI](https://doi.org/10.1109/ISBI.2014.6867883)
 
 * [Conference](https://archives.embs.org/wp-content/archives/ISBI/2014/)
 
@@ -17,4 +14,4 @@ The main code file is `sesame.py` and contains documentation.
 
 * [Conference Video](https://www.dropbox.com/s/j9vuoapgmq1vcgw/narrated4.mp4?dl=0)
 
-* [Thesis Doc](https://www.dropbox.com/s/vv15vni3xc6j7rf/mythesis.pdf)
+Also, see my doc repo [thesis-doc](https://github.com/shaharyi/thesis) for thesis documents.

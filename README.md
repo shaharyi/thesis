@@ -13,3 +13,8 @@ The main code file is `sesame.py` and contains documentation.
 
 * [Slides](https://www.dropbox.com/scl/fi/r74fom7x6zrf7b8g9fngx/Thesis.ppsx?dl=0&rlkey=q7flrrd5dxralwcwv3njs8if0)
 
+* [Publication](https://www.dropbox.com/s/n6euqwrxreas5qc/delineate.pdf)
+
+* [Conference Video](https://www.dropbox.com/s/j9vuoapgmq1vcgw/narrated4.mp4?dl=0)
+
+* [Thesis Doc](https://www.dropbox.com/s/vv15vni3xc6j7rf/mythesis.pdf)
